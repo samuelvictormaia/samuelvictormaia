@@ -34,7 +34,7 @@
 |----------|------------|--------------|
 | [Controle de Estoque](https://github.com/samuelvictormaia/controledeestoque) | Sistema simples para controle de itens | HTML / JS |
 | [Calculadora de Despesas](https://github.com/samuelvictormaia/CalculadoradeDespesa) | Calculadora de gastos pessoais | JavaScript |
-| [Plataforma EAD Local](https://samuelvictormaia.github.io/trilhafrontend/) | Ambiente de estudos Front-End (offline) | HTML / CSS / JS |
+| [Plataforma EAD Local](https://github.com/samuelvictormaia/trilhafrontend) | Ambiente de estudos Front-End (offline) | HTML / CSS / JS |
 
 ---
 
