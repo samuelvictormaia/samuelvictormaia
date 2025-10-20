@@ -32,9 +32,9 @@
 ## 🧩 Projetos recentes
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [Controle de Estoque](https://github.com/samuelvictormaia/controledestoque) | Sistema simples para controle de itens | HTML / JS |
-| [Calculadora de Despesas](https://github.com/samuelvictormaia/calculadoradespesa) | Calculadora de gastos pessoais | JavaScript |
-| [Plataforma EAD Local](#) | Ambiente de estudos Front-End (offline) | HTML / CSS / JS |
+| [Controle de Estoque](https://github.com/samuelvictormaia/controledeestoque) | Sistema simples para controle de itens | HTML / JS |
+| [Calculadora de Despesas](https://github.com/samuelvictormaia/CalculadoradeDespesa) | Calculadora de gastos pessoais | JavaScript |
+| [Plataforma EAD Local](https://samuelvictormaia.github.io/trilhafrontend/) | Ambiente de estudos Front-End (offline) | HTML / CSS / JS |
 
 ---
 
