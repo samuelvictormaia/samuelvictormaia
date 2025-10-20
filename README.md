@@ -50,15 +50,17 @@
 
 ## 🌱 Sobre mim
 
-Minha história com tecnologia começou aos 12 anos, quando comecei a editar servidores de Lineage II nas antigas comunidades do L2JBrasil.  
-Mesmo sem ter computador em casa, eu configurava bancos MySQL, ajustava XMLs, migrava DBs e subia servidores em dedicados — tudo por curiosidade e vontade de aprender.  
+Minha história com tecnologia começou aos 12 anos, quando comecei a editar e configurar servidores de Lineage II nas antigas comunidades do L2JBrasil.  
+Mesmo sem ter computador em casa, eu montava toda a estrutura por conta própria: instalava o MySQL, configurava bancos de dados, migrava DBs via Navicat, editava arquivos XML, personalizava os sites e conectava tudo ao servidor dedicado.  
 
-A partir daí, descobri que entender código era mais do que um hobby — era uma forma de criar, resolver e transformar.  
-Hoje, com 26 anos, sigo esse mesmo espírito: **aprendo rápido, penso de forma prática e nunca deixo de tentar**.  
+Essas experiências, ainda na adolescência, me deram uma visão completa sobre como sistemas funcionam — do banco de dados até o front-end.  
+Aprendi na prática a lidar com problemas reais, integrações e deploys, e descobri que o código podia transformar uma ideia em algo acessível para centenas de pessoas online.  
 
+Hoje, com 26 anos, continuo com o mesmo espírito: **aprendo rápido, penso de forma prática e nunca deixo de tentar.**  
 Venho de uma base simples, mas carrego comigo a força e o foco de quem quer mudar a própria história através da tecnologia.  
-No Front-End, encontrei o equilíbrio entre o que eu sempre gostei: **design, lógica e impacto visual**.  
-Meu objetivo é construir interfaces que facilitem a vida das pessoas e mostrem que dedicação supera qualquer obstáculo.
+
+No Front-End encontrei o equilíbrio entre o que sempre gostei: **design, lógica e impacto visual**.  
+Meu objetivo é construir interfaces que facilitem a vida das pessoas e mostrem que dedicação e curiosidade são os verdadeiros motores da evolução.
 
 ---
 
@@ -122,14 +124,15 @@ Meu objetivo é construir interfaces que facilitem a vida das pessoas e mostrem 
 
 ## 🌱 About Me
 
-My journey with technology started when I was 12, customizing Lineage II servers on the old L2JBrasil community.  
-Even without having a computer at home, I configured MySQL databases, adjusted XML files, migrated DBs, and deployed servers — all driven by curiosity and the desire to learn.  
+My journey with technology began when I was 12, configuring and customizing Lineage II servers in the old L2JBrasil community.  
+Even without a computer at home, I handled full server setups: installing MySQL, configuring databases, migrating DBs with Navicat, editing XML files, customizing websites, and connecting everything to dedicated hosts.  
 
-That’s when I discovered that coding was more than a hobby — it was a way to create, solve, and transform.  
-Now at 26, I still carry that same mindset: **I learn fast, think practically, and never give up**.  
+Those early experiences gave me a solid understanding of how systems work — from database to front-end.  
+I learned to deal with real-world problems, integrations, and deployments, realizing that code could bring ideas to life for hundreds of people online.  
 
-Coming from a humble background taught me persistence and focus.  
-In Front-End development, I found the perfect mix of **design, logic, and visual impact** — and my goal is to build interfaces that make people’s lives easier while proving that dedication beats any obstacle.
+Now at 26, I keep that same mindset: **I learn fast, think practically, and never stop trying.**  
+Coming from a humble background taught me persistence and focus, and in Front-End development I found the perfect balance between **design, logic, and visual impact**.  
+My goal is to build interfaces that make people’s lives easier and prove that dedication and curiosity are the true engines of growth.
 
 ---
 
