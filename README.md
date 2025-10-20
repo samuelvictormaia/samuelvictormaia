@@ -2,8 +2,8 @@
 
 🎯 **Objetivo:** Tornar-me um desenvolvedor Front-End completo até janeiro de 2025  
 📚 Estudante da **BFD 2025 - Softex Recife**  
-💼 Designer gráfico e fundador da **Gráfica Olinda**  
-👨‍👩‍👦 Pai e eterno aprendiz apaixonado por tecnologia  
+🎨 Designer gráfico com experiência prática em criação visual  
+👨‍👩‍👦 Pai, autodidata e apaixonado por tecnologia  
 
 ---
 
@@ -14,12 +14,24 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 💼 Outras habilidades
+🎨 **Designer gráfico com experiência prática** em:
+- **CorelDRAW** e **Photoshop CS6**
+- Criação de logotipos, identidade visual e materiais impressos  
+- Aplicação de princípios de **UX/UI** em interfaces web  
+- Desenvolvimento de materiais visuais sob demanda (freelancer)
+
+💡 Essa experiência me ajuda a criar interfaces mais harmônicas, intuitivas e funcionais — unindo design e código.
 
 ---
 
 ## 🧩 Projetos recentes
-| Projeto | Descrição | Linguagem |
-|----------|------------|------------|
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
 | [Controle de Estoque](https://github.com/samuelvictormaia/controledestoque) | Sistema simples para controle de itens | HTML / JS |
 | [Calculadora de Despesas](https://github.com/samuelvictormaia/calculadoradespesa) | Calculadora de gastos pessoais | JavaScript |
 | [Plataforma EAD Local](#) | Ambiente de estudos Front-End (offline) | HTML / CSS / JS |
@@ -28,12 +40,14 @@
 
 ## 🌱 Sobre mim
 Sou curioso, criativo e gosto de resolver problemas.  
-No meu tempo livre, gosto de criar designs, estudar novas tecnologias e aprender inglês técnico.
+Atualmente estudo **Front-End e metodologias ágeis (Scrum)**, com foco em React e Tailwind.  
+Tenho perfil prático, aprendo fazendo e gosto de unir **design + tecnologia** pra criar experiências visuais que realmente funcionam.  
 
 > “A cada linha de código eu me aproximo do futuro que quero construir.”
 
 ---
 
 📫 **Entre em contato:**
-- 📧 [samuelvictormaia@gmail.com](mailto:samuelvictormaia@gmail.com)
+- 💌 [samuelvictormaia@gmail.com](mailto:samuelvictormaia@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuelvictormaia)
+- 🌐 [GitHub](https://github.com/samuelvictormaia)
