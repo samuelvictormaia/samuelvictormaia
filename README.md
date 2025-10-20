@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Samuel Victor Maia
 
-🎯 **Objetivo:** Tornar-me um desenvolvedor Front-End completo até janeiro de 2025  
+🎯 **Objetivo:** Tornar-me um desenvolvedor Front-End completo até janeiro de 2026  
 📚 Estudante da **BFD 2025 - Softex Recife**  
 🎨 Designer gráfico com experiência prática em criação visual  
 👨‍👩‍👦 Pai, autodidata e apaixonado por tecnologia  
