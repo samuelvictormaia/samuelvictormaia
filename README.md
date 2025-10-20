@@ -1,53 +1,52 @@
-# 👋 Olá! Eu sou o Samuel Victor Maia
+# 👋 Olá, eu sou o Samuel Maia
 
-🎯 **Objetivo:** Tornar-me um desenvolvedor Front-End completo até janeiro de 2026  
-📚 Estudante da **BFD 2025 - Softex Recife**  
-🎨 Designer gráfico com experiência prática em criação visual  
-👨‍👩‍👦 Pai, autodidata e apaixonado por tecnologia  
-
----
-
-## 🚀 Tecnologias que estudo e utilizo
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+💻 **Desenvolvedor Front-End em formação**  
+🎓 **BFD 2025 - Aponti | Olinda - PE**  
+🎨 Experiência prática em design e criação visual  
 
 ---
 
-## 💼 Outras habilidades
-🎨 **Designer gráfico com experiência prática** em:
-- **CorelDRAW** e **Photoshop CS6**
-- Criação de logotipos, identidade visual e materiais impressos  
-- Aplicação de princípios de **UX/UI** em interfaces web  
-- Desenvolvimento de materiais visuais sob demanda (freelancer)
+## 🚀 Tecnologias e ferramentas
 
-💡 Essa experiência me ajuda a criar interfaces mais harmônicas, intuitivas e funcionais — unindo design e código.
+🧱 **Front-End**
+> HTML5 · CSS3 · JavaScript (ES6+) · React · TailwindCSS
+
+🎨 **Design e prototipagem**
+> CorelDRAW · Photoshop CS6 · Figma · UX/UI
+
+🧰 **Ambiente de trabalho**
+> Git · GitHub · VS Code · Chrome DevTools
 
 ---
 
-## 🧩 Projetos recentes
+## 🧩 Projetos em destaque
+
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [Controle de Estoque](https://github.com/samuelvictormaia/controledeestoque) | Sistema simples para controle de itens | HTML / JS |
-| [Calculadora de Despesas](https://github.com/samuelvictormaia/CalculadoradeDespesa) | Calculadora de gastos pessoais | JavaScript |
-| [Plataforma EAD Local](https://github.com/samuelvictormaia/trilhafrontend) | Ambiente de estudos Front-End (offline) | HTML / CSS / JS |
+| [Controle de Estoque](https://github.com/samuelvictormaia/controledestoque) | App simples para registro e controle de produtos. | HTML · CSS · JS |
+| [Calculadora de Despesas](https://github.com/samuelvictormaia/calculadoradespesa) | Calculadora para controle financeiro pessoal. | HTML · JS |
+| [Plataforma EAD Local](#) | Sistema offline para estudo de Front-End. | HTML · CSS · JS |
+
+---
+
+## 📈 Metas de evolução
+- Dominar React e Tailwind até **janeiro de 2026**  
+- Criar **projetos reais** com foco em UX e responsividade  
+- Construir um **portfólio online completo**  
+- Conquistar minha **primeira vaga como Front-End Developer**  
 
 ---
 
 ## 🌱 Sobre mim
-Sou curioso, criativo e gosto de resolver problemas.  
-Atualmente estudo **Front-End e metodologias ágeis (Scrum)**, com foco em React e Tailwind.  
-Tenho perfil prático, aprendo fazendo e gosto de unir **design + tecnologia** pra criar experiências visuais que realmente funcionam.  
+Sou curioso, prático e autodidata.  
+Comecei como designer gráfico e encontrei no desenvolvimento Front-End uma forma de **transformar criatividade em código**.  
+Gosto de interfaces limpas, funcionais e com propósito.  
 
 > “A cada linha de código eu me aproximo do futuro que quero construir.”
 
 ---
 
-📫 **Entre em contato:**
-- 💌 [samuelvictormaia@gmail.com](mailto:samuelvictormaia@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/samuelvictormaia)
-- 🌐 [GitHub](https://github.com/samuelvictormaia)
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelvictormaia)  
+[![Email](https://img.shields.io/badge/Email-samuelvictormaia@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelvictormaia@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelvictormaia)
