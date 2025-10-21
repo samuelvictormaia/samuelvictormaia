@@ -12,7 +12,7 @@
 > HTML5 · CSS3 · JavaScript (ES6+) · React · TailwindCSS
 
 🎨 **Design e prototipagem**
-> CorelDRAW · Photoshop CS6 · Figma · UX/UI
+> Figma · UX/UI · Design Visual (experiência prévia com CorelDRAW e Photoshop)
 
 🧰 **Ambiente de trabalho**
 > Git · GitHub · VS Code · Chrome DevTools
@@ -86,7 +86,7 @@ Meu objetivo é construir interfaces que facilitem a vida das pessoas e mostrem 
 > HTML5 · CSS3 · JavaScript (ES6+) · React · TailwindCSS
 
 🎨 **Design & Prototyping**
-> CorelDRAW · Photoshop CS6 · Figma · UX/UI
+> Figma · UX/UI · Visual Design (previous experience with CorelDRAW and Photoshop)
 
 🧰 **Development Environment**
 > Git · GitHub · VS Code · Chrome DevTools
